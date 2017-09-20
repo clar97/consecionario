@@ -1,0 +1,14 @@
+{
+  "name": "consecionario",
+  "version": "1.0.0",
+  "description": "es una pagina de coches",
+  "main": "gulpfile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "autos"
+  ],
+  "author": "cristopher angarita- wilber muñoz",
+  "license": "MIT"
+}
