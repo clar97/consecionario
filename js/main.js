@@ -27,4 +27,3 @@ $('.carousel').carousel('set', 4);
 
 // Destroy carousel
 $('.carousel').carousel('destroy');
-      
