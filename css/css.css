@@ -1,10 +1,12 @@
-<<<<<<< HEAD
-.tamal{
-    width:50px;
-    height:50px ;
-}
-=======
 parallax-container {
     height: "your height here";
   }
->>>>>>> fa028453020b8509cc1c9eed61d7811a96c464c8
+.textoa{
+  background: rgba(243, 145, 231, 0.5);
+}
+.textob{
+  background: rgba(255,0,0, 1);
+}
+.maranin{
+  font-family: 'Pacifico', cursive;
+} 
