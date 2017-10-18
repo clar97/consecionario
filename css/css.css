@@ -1,12 +1,14 @@
-parallax-container {
-    height: "your height here";
-  }
 .textoa{
   background: rgba(243, 145, 231, 0.5);
-}
-.textob{
-  background: rgba(255,0,0, 1);
 }
 .maranin{
   font-family: 'Pacifico', cursive;
 } 
+.contac{
+  font-size: 0px;
+  display: inline-flex;
+  border-radius: 5px;
+}
+.pa{
+  margin-top: 40px;
+}
