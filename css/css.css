@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Modak');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Courgette|Fascinate+Inline|Modak');
+
+
 parallax-container {
     height: "your height here";
   }
@@ -5,8 +9,20 @@ parallax-container {
   background: rgba(243, 145, 231, 0.5);
 }
 .textob{
-  background: rgba(255,0,0, 1);
+  background: #000000;
 }
 .maranin{
   font-family: 'Pacifico', cursive;
 } 
+.men{
+font-family:'Fascinate Inline', cursive;
+}
+.titul{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+}
+/*
+font-family: 'Alegreya', serif;
+font-family: 'Modak', cursive;
+font-family: 'Fascinate Inline', cursive;
+font-family: 'Courgette', cursive;
