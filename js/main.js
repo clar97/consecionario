@@ -27,3 +27,7 @@ $('.carousel').carousel('set', 4);
 
 // Destroy carousel
 $('.carousel').carousel('destroy');
+
+$(document).ready(function(){
+  $('.parallax').parallax();
+});

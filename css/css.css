@@ -1,14 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Modak');
+@import url('https://fonts.googleapis.com/css?family=Alegreya|Courgette|Fascinate+Inline|Modak');
+
+
+parallax-container {
+    height: "your height here";
+  }
 .textoa{
   background: rgba(243, 145, 231, 0.5);
+}
+.textob{
+  background: #000000;
 }
 .maranin{
   font-family: 'Pacifico', cursive;
 } 
+.men{
+font-family:'Fascinate Inline', cursive;
+}
+.titul{
+  font-family: 'Courgette', cursive;
+  text-align: center;
+}
 .contac{
   font-size: 0px;
   display: inline-flex;
   border-radius: 5px;
-}
-.pa{
-  margin-top: 40px;
 }
