@@ -1,18 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Modak');
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Courgette|Fascinate+Inline|Modak');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Pacifico&subset=latin-ext,vietnamese');
 
 
-parallax-container {
-    height: "your height here";
-  }
+
+.parallax-container {
+  height: "your height here";
+}
 .textoa{
   background: rgba(243, 145, 231, 0.5);
+  border-radius: 40%;
+  font-family: 'Courgette', cursive;
+  
 }
 .textob{
   background: #000000;
 }
 .maranin{
   font-family: 'Pacifico', cursive;
+  font-size: 25px;
 } 
 .men{
 font-family:'Fascinate Inline', cursive;
