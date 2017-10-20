@@ -32,12 +32,6 @@ $('.carousel').carousel('set', 4);
 $('.carousel').carousel('destroy');
 
 $(document).ready(function(){
-  $('.carousel').carousel();
-});
-$('.carousel').carousel('next');
-$('.carousel').carousel('next', 3);
-
-$(document).ready(function(){
   // the "href" attribute of the modal trigger must specify the modal ID that wants to be triggered
   $('.modal').modal();
 });

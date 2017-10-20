@@ -1,18 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Modak');
 @import url('https://fonts.googleapis.com/css?family=Alegreya|Courgette|Fascinate+Inline|Modak');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Pacifico&subset=latin-ext,vietnamese');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Nosifer&subset=latin-ext');
 
 
-parallax-container {
-    height: "your height here";
-  }
+
+.parallax-container {
+  height: "your height here";
+}
 .textoa{
-  background: rgba(243, 145, 231, 0.5);
+  background: rgba(250, 3, 3,  0.34);
+
+  
 }
 .textob{
-  background: #000000;
+  background: #c51162;
 }
 .maranin{
-  font-family: 'Pacifico', cursive;
+  font-family: 'Nosifer', cursive;
+  
+  font-size: 25px;
 } 
 .men{
 font-family:'Fascinate Inline', cursive;
@@ -26,8 +34,12 @@ font-family:'Fascinate Inline', cursive;
 .h3 {
  font-family: 'Fascinate Inline', cursive;
 }
-/*
-font-family: 'Alegreya', serif;
-font-family: 'Modak', cursive;
-font-family: 'Fascinate Inline', cursive;
-font-family: 'Courgette', cursive;
+.contac{
+  font-size: 0px;
+  display: inline-flex;
+  border-radius: 5px;
+}
+.tam{
+  font-size: 2em;
+  font-family: 'Indie Flower', cursive;
+}
