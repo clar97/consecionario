@@ -1,4 +1,7 @@
 $(document).ready(function(){
+  $('.parallax').parallax();
+});
+$(document).ready(function(){
     $('.slider').slider();
   });
   // Pause slider
@@ -19,8 +22,8 @@ $('.carousel').carousel('next');
 $('.carousel').carousel('next', 3); // Move next n times.
 
 // Previous slide
-$('.carousel').carousel('prev');
 $('.carousel').carousel('prev', 4); // Move prev n times.
+$('.carousel').carousel('prev');
 
 // Set to nth slide
 $('.carousel').carousel('set', 4);
@@ -29,5 +32,16 @@ $('.carousel').carousel('set', 4);
 $('.carousel').carousel('destroy');
 
 $(document).ready(function(){
-  $('.parallax').parallax();
+  $('.carousel').carousel();
 });
+$('.carousel').carousel('next');
+$('.carousel').carousel('next', 3);
+
+$(document).ready(function(){
+  // the "href" attribute of the modal trigger must specify the modal ID that wants to be triggered
+  $('.modal').modal();
+});
+$('#modal1').modal('open');
+
+
+

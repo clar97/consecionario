@@ -18,8 +18,13 @@ parallax-container {
 font-family:'Fascinate Inline', cursive;
 }
 .titul{
+  font-family: 'Courgette', cursive; 
+}
+.subm{
   font-family: 'Courgette', cursive;
-  text-align: center;
+}
+.h3 {
+ font-family: 'Fascinate Inline', cursive;
 }
 /*
 font-family: 'Alegreya', serif;
